@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "RanDe: A Realistic Behavioral Dataset for Enhancing Ransomware Detection"
+authors:
+  - given-names: Jannatul
+    family-names: Ferdous
+  - given-names: Rafiqul
+    family-names: Islam
+  - given-names: Arash
+    family-names: Mahboubi
+  - given-names: Md Zahidul
+    family-names: Islam
+version: "2.0"
+repository-code: "https://github.com/rande-code/RanDe-W11"
+license: CC-BY-4.0
+keywords: 
+  - ransomware
+  - malware family classification
+  - windows 11
+  - machine learning
+  - explainable artificial intelligence (XAI)
+  - SHAP
+  - dynamic analysis
+  - ransomware dataset
+abstract: >
+  Ransomware remains a highly disruptive cybersecurity threat; however, research continues to rely on datasets from legacy operating systems and outdated ransomware samples that fail to reflect the characteristics of modern computing environments. This limitation creates a misalignment between the evolving threat landscape and the empirical foundations used to study ransomware behavior. To address this gap, we present RanDe, a Windows 11 behavioral ransomware dataset comprising 2,000 samples equally distributed between benign software and ransomware spanning 30 ransomware families, forming a 31-class topology. Each sample contains 103 sandbox-derived behavioural features across nine domains, with both binary and family-level labels. To prevent data leakage, all label-related attributes were excluded from the modelling feature space and verified through anti-leakage checks. The dataset utility was validated using multiple machine learning models under five-fold stratified cross-validation, where XGBoost and LightGBM achieved a 99.85% F1-score for binary detection, and LightGBM achieved an 88.71% macro-F1 score for 31-class family classification. Geometric validation using UMAP revealed meaningful class and family-level structure, while radar profiling and correlation heatmaps showed distinct domain-specific behavioural signatures across ransomware families. Feature-domain ablation and interpretability analyses further demonstrated that the dataset contains meaningful and discriminative behavioral signals for ransomware research. RanDe has been publicly released for reproducible ransomware-detection research on GitHub.
