@@ -198,7 +198,6 @@ If you use RanDe in your research, please cite:
 @article{Ferdous_2026_rande,
   title   = {RanDe: A Realistic Behavioral Dataset for Enhancing Ransomware Detection},
   author  = {Jannatul Ferdous, Rafiqul Islam, Arash Mahboubi and Md Zahidul Islam},
-  journal = {IEEE Open Journal of the Computer Society},
   year    = {2026},
   note    = {Upon request dataset available at: https://drive.google.com/drive/folders/1lEmZYgFk43Md_K1tdinoCADX-3XHLIVt?usp=sharing }
 }
