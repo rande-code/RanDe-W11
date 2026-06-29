@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 type: dataset
-title: "RanDe: A Realistic Behavioral Dataset for Enhancing Ransomware Detection"
+title: "RanDe: A Realistic Behavioral Dataset for Machine Learning-Based Ransomware Detection"
 authors:
   - given-names: Jannatul
     family-names: Ferdous
