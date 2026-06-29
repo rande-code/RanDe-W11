@@ -1,4 +1,4 @@
-<h1 align="center">RanDe: A Realistic Behavioral Dataset for Enhancing Ransomware Detection</h1>
+<h1 align="center">RanDe: A Realistic Behavioral Dataset for Machine Learning-Based Ransomware Detection</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License"/>
@@ -196,7 +196,7 @@ If you use RanDe in your research, please cite:
 
 ```bibtex
 @article{Ferdous_2026_rande,
-  title   = {RanDe: A Realistic Behavioral Dataset for Enhancing Ransomware Detection},
+  title   = {RanDe: A Realistic Behavioral Dataset for Machine Learning-Based Ransomware Detection},
   author  = {Jannatul Ferdous, Rafiqul Islam, Arash Mahboubi and Md Zahidul Islam},
   year    = {2026},
   note    = {Upon request dataset available at: https://drive.google.com/drive/folders/1lEmZYgFk43Md_K1tdinoCADX-3XHLIVt?usp=sharing }
